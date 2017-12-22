@@ -1,0 +1,72 @@
+[
+    {
+        "_id" : "5a338e46794a1527047e1aed",
+        "id" : 0,
+        "booktitle" : "Building Blockchain Projects",
+        "author" : "Narayan Prusty",
+        "publisher" : "Packt ltd.",
+        "year" : "2017",
+        "isbn" : "978-1-78712-214-7",
+        "picture" : "images/building_blockchian_projects.png"
+    },
+    {
+        "_id" : "5a3394a2794a1527047e1aef",
+        "id" : 1,
+        "booktitle" : "Applied Cryptography",
+        "author" : "Bruce Schneier",
+        "publisher" : "John Wiley & Sons, Inc.",
+        "year" : "2015",
+        "isbn" : "978-1-119-09672-6",
+        "picture" : "images/book-applied-anniversary-20.png"
+    },
+    {
+        "_id" : "5a3394e5794a1527047e1af0",
+        "id" : 2,
+        "booktitle" : "대학생을 위한 예비부모교육",
+        "author" : "이원영; 김정미",
+        "publisher" : "(주)학지사",
+        "year" : "2011",
+        "isbn" : "978-89-6330-652-0",
+        "picture" : "images/parent_education.jpg"
+    },
+    {
+        "_id" : "5a339526794a1527047e1af1",
+        "id" : 3,
+        "booktitle" : "300 WORDS: 지적 리딩을 위한 기본 영단어",
+        "author" : "마이클 그린버그",
+        "publisher" : "윌북",
+        "year" : "2017",
+        "isbn" : "979-11-5581-132-0",
+        "picture" : "images/300_words.jpg"
+    },
+    {
+        "_id" : "5a3395a5794a1527047e1af2",
+        "id" : 4,
+        "booktitle" : "Eclipse를 활용한 안드로이드 프로그래밍",
+        "author" : "우재남; 이복기",
+        "publisher" : "한빛아카데미(주)",
+        "year" : "2015",
+        "isbn" : "979-11-5664-171-1",
+        "picture" : "images/android_programming.jpg"
+    },
+    {
+        "_id" : "5a3395d5794a1527047e1af3",
+        "id" : 5,
+        "booktitle" : "OpenGL로 배우는 3차원 컴퓨터 그래픽스",
+        "author" : "주우석",
+        "publisher" : "한빛미디어(주)",
+        "year" : "2012",
+        "isbn" : "978-89-7914-890-9",
+        "picture" : "images/computer_graphics.jpg"
+    },
+    {
+        "_id" : "5a339606794a1527047e1af4",
+        "id" : 6,
+        "booktitle" : "운영체제: 내부구조 및 설계원리",
+        "author" : "William Stallings",
+        "publisher" : "프로텍미디어",
+        "year" : "2015",
+        "isbn" : "979-11-954449-3-9",
+        "picture" : "images/operating_systems.jpg"
+    }
+]
